@@ -80,6 +80,4 @@ Lowest Marks: 70.0
 Developed as part of the CodeAlpha Java Programming Internship.
 
 ## Author
-
-Your Name
 Palak Rupchandani
