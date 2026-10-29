@@ -52,11 +52,6 @@ The program will display each student's marks along with the average, highest, a
 
 ## Sample Output
 
-```text
-=================================
-      STUDENT GRADE TRACKER
-=================================
-
 Enter number of students: 3
 
 Enter name of student 1: Rahul
@@ -68,8 +63,7 @@ Enter marks (0-100): 70
 Enter name of student 3: Priya
 Enter marks (0-100): 95
 
-========== SUMMARY ==========
-
+SUMMARY 
 Average Marks: 83.33
 Highest Marks: 95.0
 Lowest Marks: 70.0
